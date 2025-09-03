@@ -42,5 +42,5 @@ It allows users to **simulate train delays, section blockages, and re-optimize s
 ---
 
 ## 📂 Folder Structure
-<img width="649" height="707" alt="image" src="https://github.com/user-attachments/assets/89fc2c52-3f3c-492e-b988-72401c673550" />
+
 
