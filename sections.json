@@ -1,0 +1,44 @@
+[
+{
+"section_id": "S-1",
+"from_station": "Station A",
+"to_station": "Station B",
+"length_km": 50,
+"capacity_tracks": 2
+},
+{
+"section_id": "S-2",
+"from_station": "Station B",
+"to_station": "Station C",
+"length_km": 40,
+"capacity_tracks": 1
+},
+{
+"section_id": "S-3",
+"from_station": "Station C",
+"to_station": "Station D",
+"length_km": 60,
+"capacity_tracks": 2
+},
+{
+"section_id": "S-4",
+"from_station": "Station D",
+"to_station": "Station E",
+"length_km": 30,
+"capacity_tracks": 1
+},
+{
+"section_id": "S-5",
+"from_station": "Station E",
+"to_station": "Station A",
+"length_km": 70,
+"capacity_tracks": 2
+},
+{
+"section_id": "S-6",
+"from_station": "Station B",
+"to_station": "Station A",
+"length_km": 50,
+"capacity_tracks": 2
+}
+]

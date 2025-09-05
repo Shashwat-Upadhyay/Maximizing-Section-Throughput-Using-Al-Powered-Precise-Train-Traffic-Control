@@ -1,0 +1,108 @@
+[
+{
+"train_id": "T-001",
+"type": "Express Passenger",
+"priority": 1,
+"current_position": "Station A",
+"schedule": [
+{"station": "Station A", "arrival_time": "08:00", "departure_time": "08:05"},
+{"station": "Station B", "arrival_time": "08:45", "departure_time": "08:47"},
+{"station": "Station C", "arrival_time": "09:30", "departure_time": "09:35"}
+]
+},
+{
+"train_id": "T-002",
+"type": "Local Passenger",
+"priority": 2,
+"current_position": "Station C",
+"schedule": [
+{"station": "Station C", "arrival_time": "08:15", "departure_time": "08:20"},
+{"station": "Station B", "arrival_time": "09:05", "departure_time": "09:07"},
+{"station": "Station A", "arrival_time": "09:50", "departure_time": "09:55"}
+]
+},
+{
+"train_id": "T-003",
+"type": "Freight",
+"priority": 3,
+"current_position": "Station A",
+"schedule": [
+{"station": "Station A", "arrival_time": "08:25", "departure_time": "08:30"},
+{"station": "Station B", "arrival_time": "09:15", "departure_time": "09:20"},
+{"station": "Station C", "arrival_time": "10:05", "departure_time": "10:10"}
+]
+},
+{
+"train_id": "T-004",
+"type": "Express Passenger",
+"priority": 1,
+"current_position": "Station B",
+"schedule": [
+{"station": "Station B", "arrival_time": "09:00", "departure_time": "09:05"},
+{"station": "Station C", "arrival_time": "09:45", "departure_time": "09:50"},
+{"station": "Station D", "arrival_time": "10:30", "departure_time": "10:35"}
+]
+},
+{
+"train_id": "T-005",
+"type": "Local Passenger",
+"priority": 2,
+"current_position": "Station D",
+"schedule": [
+{"station": "Station D", "arrival_time": "08:30", "departure_time": "08:35"},
+{"station": "Station C", "arrival_time": "09:20", "departure_time": "09:22"},
+{"station": "Station B", "arrival_time": "10:10", "departure_time": "10:15"}
+]
+},
+{
+"train_id": "T-006",
+"type": "Freight",
+"priority": 3,
+"current_position": "Station C",
+"schedule": [
+{"station": "Station C", "arrival_time": "09:10", "departure_time": "09:15"},
+{"station": "Station B", "arrival_time": "10:00", "departure_time": "10:05"},
+{"station": "Station A", "arrival_time": "10:50", "departure_time": "10:55"}
+]
+},
+{
+"train_id": "T-007",
+"type": "Express Passenger",
+"priority": 1,
+"current_position": "Station E",
+"schedule": [
+{"station": "Station E", "arrival_time": "10:00", "departure_time": "10:05"},
+{"station": "Station D", "arrival_time": "10:50", "departure_time": "10:55"}
+]
+},
+{
+"train_id": "T-008",
+"type": "Local Passenger",
+"priority": 2,
+"current_position": "Station B",
+"schedule": [
+{"station": "Station B", "arrival_time": "11:00", "departure_time": "11:05"},
+{"station": "Station C", "arrival_time": "11:45", "departure_time": "11:47"}
+]
+},
+{
+"train_id": "T-009",
+"type": "Freight",
+"priority": 3,
+"current_position": "Station D",
+"schedule": [
+{"station": "Station D", "arrival_time": "11:30", "departure_time": "11:35"},
+{"station": "Station E", "arrival_time": "12:15", "departure_time": "12:20"}
+]
+},
+{
+"train_id": "T-010",
+"type": "Express Passenger",
+"priority": 1,
+"current_position": "Station A",
+"schedule": [
+{"station": "Station A", "arrival_time": "12:00", "departure_time": "12:05"},
+{"station": "Station B", "arrival_time": "12:45", "departure_time": "12:47"}
+]
+}
+]

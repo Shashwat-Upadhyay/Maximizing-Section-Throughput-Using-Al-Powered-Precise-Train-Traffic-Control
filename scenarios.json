@@ -1,0 +1,18 @@
+{
+"scenario_name": "Major Train Delay & Section Blockage",
+"description": "Simulates a signal failure causing a train delay and a subsequent track blockage.",
+"events": [
+{
+"event_type": "delay_train",
+"train_id": "T-001",
+"minutes": 45,
+"reason": "Signal failure near Station A."
+},
+{
+"event_type": "block_section",
+"section_id": "S-2",
+"duration_minutes": 30,
+"reason": "Debris on the track between Station B and C."
+}
+]
+}
